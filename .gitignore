@@ -1,0 +1,11 @@
+# Ignore weather cache
+weather_cache/
+
+# Ignore model files
+*.joblib
+
+# Ignore data files
+*.csv
+
+# Ignore Jupyter notebooks
+*.ipynb
